@@ -1,1 +1,1 @@
-abhiabhi
+print ('abhiabhi')
